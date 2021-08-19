@@ -8,7 +8,7 @@ Coletânea de práticas e conceitos aprendidos fruto dos mais diversos cursos e 
 + Mixin e Extensão de classes
 + Diferença entre __str__ e __repr__
 
-### Projeto do curso de banco de dados relacional: Entidades, atributos e relacionamentos do ALURA.
+### Curso de banco de dados relacional: Entidades, atributos e relacionamentos do ALURA.
 
 + O conceito de SGBD
 + Como organizamos um modelo de dados
