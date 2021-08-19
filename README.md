@@ -1,5 +1,5 @@
 # Cursos - Alura :books:
-Coletânea de práticas fruto dos mais diversos cursos e resumos realizados.
+Coletânea de práticas e conceitos aprendidos fruto dos mais diversos cursos e resumos realizados.
 
 ### Python 3: Avançando na Orientação a Objetos
 + O que é Duck Typing e para que serve
@@ -9,8 +9,6 @@ Coletânea de práticas fruto dos mais diversos cursos e resumos realizados.
 + Diferença entre __str__ e __repr__
 
 ### Projeto do curso de banco de dados relacional: Entidades, atributos e relacionamentos do ALURA.
-
-**_O curso aborda conceitos de:_**
 
 + O conceito de SGBD
 + Como organizamos um modelo de dados
